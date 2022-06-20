@@ -35,7 +35,10 @@ public class Ejecutor1 {
         
         System.out.println("----------------------");
         System.out.println(rd);
-        
+//        for (int i = 0; i < listaDistancia.size(); i++) {
+//            System.out.printf("%s", listaDistancia.get(i)); 
+//        }
+//        
     }
 }
 

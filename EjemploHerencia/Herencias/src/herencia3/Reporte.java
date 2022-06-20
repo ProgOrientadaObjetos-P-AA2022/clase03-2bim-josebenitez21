@@ -44,5 +44,8 @@ public class Reporte {
     public String obtenerCiclo() {
         return ciclo;
     }
+    public String toString(){
+        return nombre;
+    }
 
 }

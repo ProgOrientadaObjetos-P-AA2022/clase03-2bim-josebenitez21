@@ -1,1 +1,4 @@
 # clase03-2bim
+G R U P O
+GILBERT SOLANO
+JOSE BENITEZ
